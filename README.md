@@ -21,12 +21,7 @@
 
 <h3> Let's connect🚀💪</h3> 
 
-<a href="https://www.linkedin.com/in/boubker-b-508355247/">Linkedin<\a> 
+<a href="https://www.linkedin.com/in/boubker-b-508355247/">Linkedin</a> 
 
 
-
-</body>
-</html>
-
-<h3> Let's connect🚀💪</h3>   
 
