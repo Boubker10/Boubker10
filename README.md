@@ -1,4 +1,4 @@
-### 
+### Data science || Machine Learning || Deep Learning || Computer Vision 
 
 <table>
   <tr>
@@ -14,6 +14,14 @@
 </table>
 
 ![](https://komarev.com/ghpvc/?username=Boubker10&label=Visitors&color=brightgreen)
+
+
+</body>
+</html>
+
+<h3> Let's connect🚀💪</h3> 
+
+<a href="https://www.linkedin.com/in/boubker-b-508355247/">Linkedin<\a> 
 
 
 
