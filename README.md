@@ -16,6 +16,10 @@
 ![](https://komarev.com/ghpvc/?username=Boubker10&label=Visitors&color=brightgreen)
 
 
+- ![Followers](https://img.shields.io/github/followers/Boubker10?label=Followers&style=social) 
+- ![Stars](https://img.shields.io/github/stars/Boubker10?affiliations=OWNER%2CCOLLABORATOR&style=social) 
+
+
 </body>
 </html>
 
