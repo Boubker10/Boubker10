@@ -19,6 +19,12 @@
 - ![Followers](https://img.shields.io/github/followers/Boubker10?label=Followers&style=social) 
 - ![Stars](https://img.shields.io/github/stars/Boubker10?affiliations=OWNER%2CCOLLABORATOR&style=social) 
 
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Boubker10
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Boubker10&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 </body>
 </html>
