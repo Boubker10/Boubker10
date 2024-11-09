@@ -1,4 +1,4 @@
-### Data science || Machine Learning || Deep Learning || Computer Vision 
+### Data science || Machine Learning || Deep Learning || Computer Vision || NLP
 
 <table>
   <tr>
