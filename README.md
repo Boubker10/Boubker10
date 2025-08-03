@@ -1,4 +1,3 @@
-# Data Scientist Profile
 
 ## 👋 Hi, I'm a Data Scientist
 
